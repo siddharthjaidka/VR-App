@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- showUserInfoSlidingMenu -->
+
+    <!-- upload -->
+
+    <!-- video -->
+    <string name="downloadNetVideo">Download</string>
+    <string name="downloadNetVideoIntroduction">Introduction</string>
+    <string name="downloadDeletetip">Tips</string>
+
+    <!-- login / register -->
+    <string name="showUserlogin">Login</string>
+    <string name="LoginButton">Login</string>
+    <string name="LoginSuccess">Success!</string>
+    <string name="RegisterButton">Register</string>
+    <string name="RegisterPasswordlimit">Your password must be greater than the six less than or equal to eight combinations of Numbers and characters.</string>
+    <string name="RegisterUsernamelimit">User name cannot be empty!</string>
+
+    <string name="app_name">VR视界</string>
+    <string name="soft_update_no">No update available!</string>
+    <string name="soft_update_title">New version found：</string>
+    <string name="soft_update_updatebtn">Update</string>
+    <string name="soft_update_later">Later</string>
+    <string name="soft_updating">Updating</string>
+    <string name="soft_update_cancel">Cancel</string>
+    <string name="soft_version_limited_title">Compatiable issue</string>
+    <string name="soft_version_limited">Your client is not compatiable with server!</string>
+    <string name="delete_dir">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_toast">Click again to exit</string>
+    <string name="default_version">V1.0</string>
+    <string name="email">Email：vr@vrinchina.org</string>
+    <string name="website">Website：http://c3dworld.org/VR</string>
+    <string name="copyright">2016 中国虚拟现实产业联盟</string>
+    <string name="net_not_available">Network is unavailable! Please check!</string>
+
+    <string name="download_notification">Completed %1$d,  Total %2$d</string>
+
+    <string name="thirdparty_login">Login with thirdparty account</string>
+    <string name="buffering">Please wait for buffering...</string>
+    <string name="player_init_fail">Player initialization failed</string>
+
+    <string name="application_version">version:&#160;&#160;</string>
+    <string name="application_author">author:&#160;&#160;</string>
+
+    <string name="application_download">download</string>
+    <string name="application_launch">open</string>
+    <string name="application_install">install</string>
+    <string name="application_wait_download">waitting</string>
+
+    <string name="log_warning">实名制整改，暂时无法注册，请使用QQ登陆</string>
+    <string name="loading_fail">Loading failed</string>
+
+    <string name="game">Game</string>
+    <string name="video_3d">3D Video</string>
+    <string name="vr">VR Video</string>
+    <string name="local_video">Local video</string>
+    <string name="tabname_home">Home</string>
+    <string name="tabname_video">Video</string>
+    <string name="tabname_app">Game</string>
+    <string name="tabname_about">Me</string>
+    <string name="detail_title">Details</string>
+    <string name="detail_actors">Actor:&#160;&#160;</string>
+    <string name="detail_time">Rlease:&#160;&#160;</string>
+    <string name="detail_location">Location:&#160;&#160;</string>
+    <string name="detail_play_count">Play:&#160;&#160;</string>
+    <string name="detail_play_count_suffix">&#160;play</string>
+    <string name="detail_download_count_suffix">&#160;download</string>
+    <string name="detail_intro">Introduction</string>
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="detail_alert_dialog_content">Please check network connetction and retry</string>
+    <string name="try_to_refresh">Pull down to refresh</string>
+    <string name="end_tag_name">~~No more~~</string>
+
+    <string name="v2_clicktologin">Login</string>
+    <string name="v2_clicktologout">Logout</string>
+    <string name="v2_logout_tips">Logout?</string>
+    <string name="v2_history">History</string>
+    <string name="v2_save">Favorite</string>
+    <string name="v2_aboutus">About</string>
+    <string name="v2_checkandupdate">Check for update</string>
+
+    <string name="v2_user_title_delete">Delete</string>
+    <string name="v2_user_title_edit">Edit</string>
+    <string name="v2_user_title_select">Select all</string>
+    <string name="v2_user_title_cancel">Cancel</string>
+    <string name="v2_user_listitem_time">Duration:</string>
+    <string name="not_login">Need Login</string>
+    <string name="need_login">Please login and try again</string>
+    <string name="v2_insert_userName">username</string>
+    <string name="v2_insert_password">password</string>
+    <string name="v2_choose_no">Choose to delete</string>
+    <string name="empty_favorite_no">no favorite</string>
+    <string name="empty_playrecord_no">no play record</string>
+    <string name="v2_current_version">Current version</string>
+    <string name="v2_device">Device</string>
+    <string name="v2_device_none">None</string>
+    <string name="v2_need_device_msg">Choose VR device to get better performance.\n\nYou can set in \"Device\" later.</string>
+    <string name="v2_need_device_title">Device Setting</string>
+    <string name="v2_go_setting">Go</string>
+    <string name="v2_continue">Continue</string>
+    <string name="delete_fail">Delete fail</string>
+    <string name="delete_fail_msg">Please delete it manually</string>
+
+    <string name="tabname_vr_online">VR Online</string>
+    <string name="vr_online">VR Online</string>
+</resources>

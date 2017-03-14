@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="v2_application">#259b24</color>
+    <color name="divider">#EEEEEE</color>
+
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#33b5e5</color>
+    <color name="tabhost_background">#F6F6F6</color>
+
+    <color name="tag_indicator_vr">#00D5B4</color>
+    <color name="tag_indicator_3d">#008FFE</color>
+    <color name="tag_indicator_vr_online">#F3C800</color>
+    <color name="tag_indicator_game">#AD00FE</color>
+
+</resources>
